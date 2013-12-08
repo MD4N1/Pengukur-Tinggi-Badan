@@ -1,4 +1,4 @@
 Pengukur-Tinggi-Badan
 =====================
 
-Pengukur tinggi badan menggunakan modul transduser Ultrasonik, Arduino Duemilanove 328p dan LCD 16x2
+Pengukur tinggi badan menggunakan modul transduser Ultrasonik, Arduino Duemilanove 328p dan Display 7 segmen.
